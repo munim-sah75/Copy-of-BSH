@@ -3,7 +3,7 @@ import requests
 # URL to fetch data from
 SOURCE_URL = "https://raw.githubusercontent.com/BDSTVHUB/BDStreamHub/refs/heads/main/index.html"
 # File to save the content
-OUTPUT_FILE = "CBDH.m3u"
+OUTPUT_FILE = "CBSH.m3u"
 
 def copy_entire_content():
     response = requests.get(SOURCE_URL)
