@@ -25,10 +25,10 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: Run the script
-        run: python update_m3u.py
+        run: python update_m3u.py 
 
       - name: Check file content
-        run: cat CBSH.m3u
+        run: cat CBSH.m3u 
 
       - name: Commit and Push Changes
         run: |
