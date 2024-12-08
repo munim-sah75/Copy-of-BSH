@@ -105,7 +105,7 @@ https://mtlivestream.com/asian/ytlive/index.m3u8|Referer=https://mtlivestream.co
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
 https://ythls-v3.onrender.com/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
-https://cdn.jagobd.com.bd/live-orgin/nexustv.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd//&key=BDStreamHub
+https://statics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8|Referer=https://mcaster.tv//&key=BDStreamHub
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd//&key=BDStreamHub
@@ -118,9 +118,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=ESSIzquxdyP2
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibd.stream/live-orgin/gazibd.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10",T Sports
-https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=1142
 https://sportsoneapk.xyz/hop/push-op.m3u8?id=18359
-https://bajimath.com/php/stream.m3u8?id=T-SPORTS&e=.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 http://starshare.live:8080/live/Leroy123/Leroy123/3802.m3u8
@@ -248,22 +246,27 @@ https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrzvYQFcG5RRBg-lfj7X1fNkXCWqYghiaAGd-6JPcEnwC9V5zg5eu0G0&s=10",Srk Tv
 https://cdn.ncare.live/flixhls/flixsrktv.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami.jpg",Sami Tv
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/smtvbd.stream/live-orgin/smtvbd.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
+
 #EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuY5J18OBIB9sVFlC3zRiJM3LFujuwAKm4RDzjKcFKeGumnoGAjaa33NAv&s=10",The_Tok_Show
 http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/pbn.jpg",PBN
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/live-orgin/pbntv.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 
 
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
 https://evbr.short.gy/Zeebangla_SD.m3u
-https://la.drmlive.au/tp/zee-9z5383484.m3u8|Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-9z5383484.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Zee Bangla HD
-https://la.drmlive.au/tp/zee-zeebangla.m3u8|Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-zeebangla.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://evbr.short.gy/Zeebangla_Cinema.m3u
-https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8|Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"group-title="KOLKATA",Star Jalsha
 http://cflare.mooo.com/test/starjalsha.m3u8
@@ -356,10 +359,10 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ptbe3BcipeORtycnVC0qdsq6w_DMcDngWN7XEFEt&s",& Tv
-https://la.drmlive.au/tp/zee-tvhd_0.m3u8|Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8H3YlBtOHF-1vxmzmn5r9hbOum61opRtbA&usqp=CAU",& Picture HD
-https://la.drmlive.au/tp/zee-pictures.m3u8|Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-pictures.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcglbuWYNm9p6lucqj7UqaYgunt_06yDFS5w&usqp=CAU",Colors HD
 https://mhdlivetv.com/jiocinema/stream.m3u8?id=3694429|Referer=https://mhdlivetv.com//&key=BDStreamHub
@@ -467,12 +470,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zee-Cinema.png",Zee Cinema
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 https://evbr.short.gy/zeecinema.m3u
-https://la.drmlive.au/tp/zee-zeecinema.m3u8||Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-zeecinema.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwSz-Fb_ivvoN6szqL-0Nf2yvp0H8VwOqjae-FTRuTzpH0RaPRQn2E1jR&s=10",Zee Cinema HD
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 https://evbr.short.gy/Zeecinema_HD.m3u
-https://la.drmlive.au/tp/zee-zeecinemahd.m3u8|Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-zeecinemahd.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/dQbngb5B/20241119-032940.jpg",Comedy King
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
