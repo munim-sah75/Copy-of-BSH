@@ -105,7 +105,7 @@ https://app.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|Referer=https:
 https://mtlivestream.com/asian/ytlive/index.m3u8|Referer=https://mtlivestream.com//&key=BDStreamHub
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
-https://nowlivetv.com/ayna/stream.php?id=33&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd//&key=BDStreamHub
@@ -149,7 +149,6 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png",Global Tv
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/live-orgin/Global-tv.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
-https://nowlivetv.com/ayna/stream.php?id=35&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla Tv
 https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8|Referer=https://banglatv.tv//&key=BDStreamHub
@@ -534,14 +533,13 @@ https://nowlivetv.com/ayna/stream.php?id=150&e.m3u8|Referer=https://nowlivetv.co
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png",HBO
-http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=12481&deviceMac=00:1A:79:6C:28:A1 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+https://raw.github.com/Hasanmahmud000/Yt/main/HBO.stream.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png?v=8.2.3",Star Movies Select HD
-http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
+https://raw.github.com/Hasanmahmud000/Yt/main/Star_Movies_Select.stream.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCpRl82zx1IEIdu6ZirdBVJlzJoU622_NwsEpa2jYZkSo2SJQXUxV2atE&s=10",Movies
 https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
@@ -625,7 +623,7 @@ https://raw.github.com/Hasanmahmud000/Yt/main/Disney_Channel_HD.index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=554&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=554&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg",Kidsland
 https://advance.iptvxpose.workers.dev/@KidsLandOfficial.m3u8
@@ -633,27 +631,27 @@ https://advance.iptvxpose.workers.dev/@KidsLandOfficial.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 https://colorsscreen.com/stream.php?id=816&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=816&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=816&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png",CN HD+
 https://colorsscreen.com/stream.php?id=1081&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=1081&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=1081&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick 
 https://colorsscreen.com/stream.php?id=1341&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=1341&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=1341&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick Hindi 
 https://colorsscreen.com/stream.php?id=545&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=545&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=545&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic
 https://colorsscreen.com/stream.php?id=1345&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=1345&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=1345&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic Hindi
 https://colorsscreen.com/stream.php?id=815&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=815&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=815&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/originals/d2/d0/c6/d2d0c69e6ec56ef717b9bbc23fc8e2fc.png",Tom And Jerry
 https://advance.iptvxpose.workers.dev/@BoomerangUK.m3u8
@@ -664,7 +662,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=7084&deviceMac=00:1A:79:99:
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzz5w3vSIpb_Gb48tVtM9y3kgNiVk6Pn9aBjHvNLs31A&s",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/cb543d1e786c648e93d43660cef342a6f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c535677ab66ad0311badc6ac8136b650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4820a957f378dadd468277c5e5a8f2002b7f902f6ef820c13892ef8ae194b923146e19056cdd74ae986dd0ec85ed723a4468093f1de860d8b86c231b401b4660d0d7b2bcf867fca9c07f6b0f4683d8f3f29560e6ae2ac9eff4732f4292930e3defb8f5adb3ce3a80caf7d6dc76af44e8023c46aba1998ef4fada8c9b3282b2285f46b5e0981c88597a14559d467ffb1a7de7c6c89f7661b2da83c8251415f91f9d85a80ca11e4de49e3af592e11e48c1fe3f7d582eba3c34e9231b8aa9ef326766f512327b27292ae70e907b70cc05b8708262f6689d83fe687d7593c634b839356a67c71dbfab8f3148aa6a81a7f7bfb69d8216526ac662d144d4c88c8093cc3efd9d21544e9b2db04d00b8e0cbfcdfaf60f3afafacf43f46ed56d6bb8e82fa67735550eb2bd7911150c35fce7681828228364ead7d8ee7e0d40bda596bef07c1b28793a004cbbf0e839dbafd0391113f656244b7d0458c35781278c56094805e12afe804534890f2a28a6803a5e5163df88928995d9c741fa2e819fb369616d093ae47d54723b939b825bf4344e3e495c860e764af2520915a4c69f97f4ea09ef9260b8376b1011a7a1453b4e38155b039a9f65de2c84ab14b894c755b688bd3d66aa7c855052f2fdd36ef1e184877f079fa4521305c68b3fa4846ab4c4b18cda62006f871f847ab262/18/1280x720_3000800/index.m3u8
 https://colorsscreen.com/stream.php?id=559&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://kyeni.iptvbd.xyz/jiotv/app/chdstreamm.php?id=559&e.m3u8|Referer=https://kyeni.iptvbd.xyz//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=559&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
 http://xtv.ooo:8080/live/874246786/743567899/150480.m3u8
@@ -870,7 +868,7 @@ https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=568&e=.m3u8|Referer=h
 https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=541&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",Travel 
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127",TravelXP
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
@@ -888,7 +886,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://linear-793.frequency.stream/mt/studio/793/hls/master/playlist.m3u8|Referer=https://linear-793.frequency.stream//&key=BDStreamHub
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqbiIR6peQyD1fnfqWtLIh8zGqqpQUXkB8xg&s",TLC Hindi
-https://neeplay.net/delta/discovery/api/TLC.m3u8|Referer=https://neeplay.com//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=571&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg",Epic 
 https://epiconvh.s.llnwi.net/epic/master.m3u8
@@ -928,11 +926,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-https://nowlivetv.com/ayna/stream.php?id=39&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=740&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjjc3FjUN_uObThUb7M1AdQ30OkphFNcN0Z1OebcfteY23-61kMsrH7lCR&s=10",Dhoom Music
 https://colorsscreen.com/stream.php?id=3006&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://playyonogames.in/live.php?id=3006&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=3006&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://i.imgur.com/sAygLG0.jpg",E 24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
@@ -942,22 +940,21 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjyOEhjZiSMOh4shA0GywTsrjLv0WVVjnZw&usqp=CAU",B4u Music
 https://colorsscreen.com/stream.php?id=183&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://playyonogames.in/live.php?id=183&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=183&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDeeugW5hvWY_a45IY1YCzJ7wwrjHfRKYHE7ZrkPsjAaSxTgQZ4KMK47a&s=10",9x Music 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/315c870e-74e9-47c1-b246-49dfc5ea1451/3.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DC2Db26oMIsOoVtnq0WEenUQ7QGiaToJAw&s",Music India
-#EXTVLCOPT:http-user-agent=KAIOS 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/Musicindia2.mpd?id=90b72f2c2349633ee708d38a89371529
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=250&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/u6xCqD3.jpg",9x Jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/u6xCqD3.jpg",9x Tashan
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-https://nowlivetv.com/ayna/stream.php?id=143&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=732&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tio4A8H91-VcZDhiuto3bUcr8cOySf8vBQ&usqp=CAU",8xm Music
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
@@ -981,12 +978,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/VH1_India_logo.svg/1200px-VH1_India_logo.svg.png",VH1
 https://colorsscreen.com/stream.php?id=1378&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://playyonogames.in/live.php?id=1378&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=1378&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8FDixsi8yZNjgL2RFPrKKBQ68Sf2BVO2bEVP98gbp5MDIL_RC8KfZ2cvn&s=10",MtvBeats 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 https://colorsscreen.com/stream.php?id=1400&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://playyonogames.in/live.php?id=1400&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=1400&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7OVo2qiOdf741CwUuXSQqLWiEtz9bSxF77FpyEaUd-LiF5j_1Q2snkrUl&s=10",MtvBeats HD
 https://mhdlivetv.com/jiocinema/stream.m3u8?id=3774153|Referer=https://mhdlivetv.com//&key=BDStreamHub
@@ -999,7 +996,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png",9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-https://nowlivetv.com/ayna/stream.php?id=132&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=441&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFeK4ytz2hy_ip-UTv7DbbH_-rQXg1yoxsxe0-f27LiXOQTSxJVK_sqGP&s=10",7x Music
 https://stream.e2is.in/hls/7xMusic.m3u8|Referer=https://stream.e2is.in//&key=BDStreamHub
@@ -1021,7 +1018,7 @@ https://skykerala.online/yupp-usa/tv.php?c=star-maa-music-us|Referer=https://sky
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/zkRAgqv.jpg",Songeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
-https://playyonogames.in/live.php?id=735&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=735&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 
 <!DOCTYPE html>
