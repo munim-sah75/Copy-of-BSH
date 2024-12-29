@@ -9,7 +9,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/live-orgin/makkah.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UJ8H7Ndfk9XGQBZpl15rMPNRI0iJs9FWyzg3qrH7K1azFK1cHaDppHnD&s=10",Azan Tv
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",IQRA Bangla
 https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
@@ -119,11 +119,11 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10",T Sports
 https://raw.github.com/Hasanmahmud000/Yt/main/TSports.stream.m3u8
+https://daddyhd.iptvbd.xyz/stream.php?id=270&e=.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
-#EXTVLCOPT:http-referrer=https://iptv.jadoodigital.com/ 
-#EXTHTTP:{"referer": "https://iptv.jadoodigital.com/"} 
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=tG0NEQgcCNtTcuWvqG5qGw&expires=1734607520&user=811838a63b224e85b02b925b31d0fece|referer=https://iptv.jadoodigital.com/
+https://raw.github.com/Hasanmahmud000/Yt/main/Nagorik_Tv.index.m3u8
+http://starshare.live:8080/live/3569087360/6542246996/3802.ts
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
@@ -152,10 +152,9 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla Tv
 https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8|Referer=https://banglatv.tv//&key=BDStreamHub
-https://nowlivetv.com/ayna/stream.php?id=32&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+https://raw.github.com/Hasanmahmud000/Yt/main/Bangla_tv.stream.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla Europe Tv
-https://cdn.ghuddi.live/tvpage/Bangla_TV_EU/Transcoded/Bangla_TV_EU_1080p/chunks.m3u8|Referer=https://banglatv.tv//&key=BDStreamHub
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/sYZOVV5.png",Anando Tv
 http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8|Referer=http://global.ncare.live//&key=BDStreamHub
@@ -165,7 +164,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLADESH", DURONTO TV
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=12481&deviceMac=00:1A:79:6C:28:A1
-https://nowlivetv.com/ayna/stream.php?id=37&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+https://raw.github.com/Hasanmahmud000/Yt/main/Duranto_tv.stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="BANGLADESH", Matribhumi Tv
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/live-orgin/matribhumitv.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
@@ -299,6 +298,8 @@ https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=1669&e=.m3u8|Referer=
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/iqLyqRz.jpg",Sun Bangla Cinema
 
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath SD
+https://www.its-ferdos-alom.top/toffee/live.php?id=sonyaath&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamHub
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
@@ -411,7 +412,7 @@ https://raw.github.com/Hasanmahmud000/Yt/main/Star_Gold_Hd.stream.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157081.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFrgItzysUrYMdT6RqRHIrfl48ocKNwYKuJWgTTlLEA&s",Star Gold THRILLS
-https://fifabd.xyz/KIDxRANAPKs/play.m3u8?id=221258
+
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 https://webott.viatv.com.np/v0t1/StarGoldSelectHD.stream/playlist.m3u8
@@ -459,7 +460,7 @@ https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxt
 https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJCJw7PeI2tgwdbHX9ZIjmAFMY2jBkaG5Zg&usqp=CAU",History Tv 18
-https://playyonogames.in/live.php?id=578extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
+https://www.its-ferdos-alom.top/jiou/app/chdstreamm.php?id=146&e=.m3u8|Referer=https://www.its-ferdos-alom.top//&key=BDStreamH
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmaLB_awHl3ZGXD-iVe_59ZdFxhUfXh3oogg&usqp=CAU",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -496,7 +497,7 @@ https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/p
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95mzGc4dpxEcTPVNwHqZGu9tTn2-aUqs5twCpjjFb2VPf-844jZsXLNdn&s=10",Bollywood Prime
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
+
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png",MBC Bollywood
 http://starshare.live:8080/live/3569087360/6542246996/20512.ts
@@ -515,7 +516,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=15834&deviceMac=00:1A:79:40:2
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUKH3ONtozm0A0sUT1iS6rYBeanGpMDW7bA&usqp=CAU",All Time Movie 
-https://nowlivetv.com/ayna/stream.php?id=148&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5RbYSEB1S-yuAdXV4acFlJlWSuH_pi32hxslrAwkPOa0UpXG83FI7xAA&s=10",Filamchi 
 https://epiconvh.s.llnwi.net/filamchi/master_1080.m3u8
@@ -525,10 +526,10 @@ https://colorsscreen.com/live.php?id=1668&extension=.m3u8|Referer=https://colors
 http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=12481&deviceMac=00:1A:79:6C:28:A1
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://yt3.googleusercontent.com/wblvtoHFXpBoat-oNukycB5auBa45inSwiyghE8gac3MN_ridYgeY1kHRKCkBrb1slgpIlO6Vw=s900-c-k-c0x00ffffff-no-rj",Goldmines
-https://nowlivetv.com/ayna/stream.php?id=149&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
-https://nowlivetv.com/ayna/stream.php?id=150&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+
 
 
 
