@@ -120,7 +120,7 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd//&key=BDStreamHub
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=854668593&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI1IDY6NDc6MjYgUE0maGFzaF92YWx1ZT1GUm84U2VTaytaOXZwOXFiRXJPY2xBPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10",T Sports
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
@@ -257,37 +257,37 @@ https://cdn.ncare.live/flixhls/flixsrktv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami.jpg",Sami Tv
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/smtvbd.stream/live-orgin/smtvbd.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 
-#EXTINF:-1 group-title="BANGLADESH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuY5J18OBIB9sVFlC3zRiJM3LFujuwAKm4RDzjKcFKeGumnoGAjaa33NAv&s=10",The_Tok_Show
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://cbntvusa.net/wp-content/uploads/2024/01/cbntvusa-logo-1.png",CBN Tv
+https://live.cbntvusa.net/hls/cbntv/index.m3u8
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.projonmotv.com/assets/img/projonmo-tv-mobile.png",Projonmo Tv
+https://video1.getstreamhosting.com:1936/8264/8264/chunklist_w1577491733.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/pbn.jpg",PBN
+EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/pbn.jpg",PBN
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/live-orgin/pbntv.stream/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 
 
 
 #EXTINF:-1 tvg-id="0-9-9z5383484" group-title="KOLKATA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1741265331~acl=%2f*~data=hdntl~hmac=d716dd6be6a58bc1bf4c93e993195c7a7dd03aca4aef9cbaf8ff61b5e5c7c699
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-9z5383484&vtoken=c092d903ac0c244e1112178a38cb8b60-1741302266&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 tvg-id="0-9-zeebangla" group-title="KOLKATA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1741265302~acl=%2f*~data=hdntl~hmac=fae1a128e1b1438b7ffaf77eaa864a24cd72c4c9ef2a0007c1f65ce595a49c51
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeebangla&vtoken=13d71b59bd37e78a7bcaa507a93ec7f9-1741302397&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="KOLKATA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1741265308~acl=%2f*~data=hdntl~hmac=b8c480802e11c755ba96ae717624f67dad20cb5df77e9380eb3203626ad31631
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeebanglacinema&vtoken=95157a9194a74bd232b41b1c10a5a752-1741302501&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"group-title="KOLKATA",Star Jalsha
-https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+https://raw.github.com/Hasanmahmud000/Yt/main/Star_Jalsha.stream.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg"group-title="KOLKATA",Star Jalsha HD
-https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+https://raw.github.com/Hasanmahmud000/Yt/main/Star_Jalsha.stream.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
-https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+https://raw.githubusercontent.com/Hasanmahmud000/Yt/refs/heads/main/Jalsha_Movies.stream.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+https://raw.githubusercontent.com/Hasanmahmud000/Yt/refs/heads/main/Jalsha_Movies.stream.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsIST3OgeGPkbqbm0qYMZZ_1Xr9wJLF2n0Q&usqp=CAU",Colors Bangla
 https://playyonogames.in/live.php?id=1369&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
@@ -365,10 +365,10 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Ptbe3BcipeORtycnVC0qdsq6w_DMcDngWN7XEFEt&s",& Tv
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-tvhd_0&vtoken=d4ff86d1cbea2e09fcd267ea083ac438-1741304015&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8H3YlBtOHF-1vxmzmn5r9hbOum61opRtbA&usqp=CAU",& Picture HD
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvpictureshd|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-tvpictureshd&vtoken=6a9b9f3b88076f35e5e173c7ed403387-1741304139&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcglbuWYNm9p6lucqj7UqaYgunt_06yDFS5w&usqp=CAU",Colors HD
 https://moonkerala.xyz/jiohotstar/playit.php?id=3694429|Referer=https://moonkerala.xyz//&key=BDStreamHub
@@ -398,40 +398,35 @@ https://colorsscreen.com/live.php?id=1158&extension=.m3u8|Referer=https://colors
 https://moonkerala.xyz/jiohotstar/playit.php?id=3774150|Referer=https://moonkerala.xyz//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZ9P0cJRpnjzcuzKgdaoP-9WHL64hndy_QQwZ2rdQHHznHkBcgwHhenc&s=10",Zee Tv HD
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetvhd|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeetvhd&vtoken=63edc8c9225258a236f9b6d4e5a50cbe-1741304302&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://yt3.googleusercontent.com/9aK8tgbpGUon2qIYZjZTfE30WtIXoS7avoDqz7QXUoo3VA0bLq8100J7NE48n787C2OHdUzTyA=s900-c-k-c0x00ffffff-no-rj",Sun Neo
 https://playyonogames.in/live.php?id=3088&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
 https://mhdtvstream.com/live.php?id=3088&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBfQqEIaH2h68w-T7AhfPmMlK7qFh7ZC-ARZyNntQgKYzi1AnFmI_owc&s=10",Star Bharat 
-https://webott.viatv.com.np/v0t1/StarBharatHD.stream/playlist.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=10016&deviceMac=00:1A:79:20:6F:F3
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Star_utsav.png/revision/latest?cb=20210520175932",Star Ustv
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72144.m3u8
+https://lifetvbd.xyz:8880/live/omor20/omor20/9571.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://www.pngitem.com/pimgs/m/522-5229980_logo-of-star-plus-hd-png-download.png",Star Plus HD
 http://119.152.240.15:8001/play/a0gy/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jOSoK1R70fLjm2L3SiQFvsIk9gFt33EiQcE1Vze_iXA-NMzwSBE21AI&s=10",Star Gold HD
-https://raw.github.com/Hasanmahmud000/Yt/main/Star_Gold_Hd.stream.m3u8
+https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png",Star Gold 2
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157081.m3u8
+https://lifetvbd.xyz:8880/live/omor20/omor20/3174.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFrgItzysUrYMdT6RqRHIrfl48ocKNwYKuJWgTTlLEA&s",Star Gold THRILLS
-
+https://lifetvbd.xyz:8880/live/omor20/omor20/93.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 https://webott.viatv.com.np/v0t1/StarGoldSelectHD.stream/playlist.m3u8
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72142.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold Romance
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=15531&deviceMac=00:1A:79:09:2B:88
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Doordarshan_Logo_%281%29.png",DD National
-https://mhdtvstream.com/live.php?id=202&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
+https://cdn-1.pishow.tv/live/11/master.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A0Vd31lmefn_He1-PXLcN2OqNR_O-WjxGOoXpDLdrDykL4H-qYJz5Ysp&s=10",B4U Movie
 https://playyonogames.in/live.php?id=182&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
@@ -478,22 +473,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVStewn-1OM1bk4FKYH4Epft4XMYwjp0eZ9ZzGrUHdmWN-mu9-GWTU4Q8&s=10",Zee Action
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeaction|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeeaction&vtoken=307bd9aeb0d55faddaa0a5444c318ff4-1741305186&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOM5Is5SAnmaW3MqoYKEWgCaFtFGHv6l9FINnDxozqZZ8AmSMO4qmLNA&s=10",Zee Classic
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-176|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-176&vtoken=27fab92b8ebd227a1dec78ed81186176-1741305261&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReu_STvi4Q5SNLTtC5LHwiC7IfZVPGZEt8x9tjLnmQ7zjmLUtK9RD70Tg&s=10",Zee Bollywood
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeclassic|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeeclassic&vtoken=dc95477193890fb5eff345464ffd72b9-1741305343&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://tvtick.com/img/channel/653.png",Zee Anmol Cinema
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeanmolcinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeeanmolcinema&vtoken=b2f21b7e68699001c5bf6c02b1e912c2-1741305415&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zee-Cinema.png",Zee Cinema
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeecinema&vtoken=3e708efed685c924f1416f870c9f66c2-1741305501&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwSz-Fb_ivvoN6szqL-0Nf2yvp0H8VwOqjae-FTRuTzpH0RaPRQn2E1jR&s=10",Zee Cinema HD
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeecinemahd&vtoken=47d5f2d1d33cc1742d95c338486ca091-1741305576&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/dQbngb5B/20241119-032940.jpg",Comedy King
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
