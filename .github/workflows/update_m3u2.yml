@@ -34,7 +34,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add CBSH.m3u
+          git add CBSH2.m3u
           git commit -m "Automated update of neo.m3u" --allow-empty || echo "No changes to commit"
           git push
         env:
