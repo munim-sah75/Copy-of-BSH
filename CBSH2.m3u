@@ -35,7 +35,7 @@ http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3|Referer=103.
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8|referer=https://d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", RTV
-http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3|referer=https://103.163.247.39//&key=BDStreamHub
+https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/rtv.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", bangla vision
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8|Referer=d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
@@ -53,7 +53,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8|Referer=d1e7r
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8|Referer=d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  GTV
-https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbd/gazi_tv_hd.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
+https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/gazi_tv_hd.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", T-Sports 
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8|Referer=live.tsports.com//&key=BDStreamHub
@@ -65,25 +65,25 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8|Referer=d1e7r
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8|Referer=byphdgllyk.gpcdn.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Golbal TV
-https://bdixtv24.com/ayna/watch.m3u8?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&format=.m3u8|referer=https://bdixtv24.com//&key=BDStreamHub
+https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Channel 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8|referer=https://d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  আনন্দ TV
-https://bdixtv24.com/ayna/watch.m3u8?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2&format=.m3u8|referer=https://bdixtv24.com//&key=BDStreamHub
+https://newbdix-xfireflix.vercel.app/api/newrdx/245929.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  বিজয় TV
 http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3|referer=https://103.163.247.39//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  চ্যানেল আই 
-http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3|referer=https://103.163.247.39//&key=BDStreamHub
+https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", NTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/1716.m3u8|referer=https://d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", SA TV
-http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3|referer=https://103.163.247.39//&key=BDStreamHub
+https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", MY TV
 https://mytvbangla.com/0.m3u8|referer=https://mytvbangla.com//&key=BDStreamHub
@@ -92,7 +92,7 @@ https://mytvbangla.com/0.m3u8|referer=https://mytvbangla.com//&key=BDStreamHub
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8|Referer=https://boishakhi.sonarbanglatv.com//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Bangla TV
-https://bdixtv24.com/ayna/watch.m3u8?id=addb7014-1d2e-41d8-982d-7cafbdc48770&format=.m3u8|referer=https://bdixtv24.com//&key=BDStreamHub
+https://newbdix-xfireflix.vercel.app/api/newrdx/245910.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
  
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", channel 9
 https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
@@ -101,10 +101,10 @@ https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m
 https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  MACHRANGA TV
-http://172.19.178.39:18190/maasranga/index.fmp4.m3u8?token=184f37c1a8dc228d7219efab3a41a43c4d050f4c-a464267121ab3c0d1a041521b114706c-1745329471-1745318671|referer=https://172.19.178.39:18190//&key=BDStreamHub
+https://aynaxpranto.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Mohona TV HD
-https://bdixtv24.com/ayna/watch.m3u8?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e&format=.m3u8|referer=https://bdixtv24.com//&key=BDStreamHub
+https://newbdix-xfireflix.vercel.app/api/newrdx/245920.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", movie bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8|Referer=alvetv.com//&key=BDStreamHub
@@ -146,7 +146,7 @@ https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbd/colors_
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8|referer=https://d35j504z0x2vu2.cloudfront.net//&key=BDStreamHub
  
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", DBC NEWS
-https://bdixtv24.com/ayna/watch.m3u8?id=0875f2c8-2043-499b-9472-2872412a6340&format=.m3u8|referer=https://bdixtv24.com//&key=BDStreamHub
+https://newbdix-xfireflix.vercel.app/api/newrdx/245914.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", YRF MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8|referer=https://d35j504z0x2vu2.cloudfront.net//&key=BDStreamHub
@@ -218,16 +218,19 @@ https://news.bajimath.com/Candy_Live/vstream.php?id=d581dd66e556&e=.m3u8|Referer
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8|Referer=https://server.thelegitpro.in//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", ZEE TV HD
-https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbd/zee_tv.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
+https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/zee_tv.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", discovery 
-https://news.bajimath.com/Candy_Live/vstream.php?id=77e72f2ba472&e=.m3u8|referer=https://news.bajimath.com//&key=BDStreamHub
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8|referer=https://fl3.moveonjoy.com//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", ZEE ZEST HD 
 https://live.drmlive-02.workers.dev/zee/348.m3u8|referer=https://live.drmlive-02.workers.dev//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", JALSHA MOVIES
 http://38.96.178.201/live/JalshaMovies/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
+
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", JALSHA MOVIES HD
+https://newbdix-xfireflix.vercel.app/api/newrdx/245900.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", MUZZIK
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8|referer=https://muzzik-live.morescreens.com//&key=BDStreamHub
@@ -265,11 +268,11 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8|referer=https://m
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Ani kids
 http://31.148.48.15/Ani/index.m3u8|referer=https://31.148.48.15//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", cala kids
-https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8|referer=https://d3eq0jseza7fm5.cloudfront.net//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Super kids
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8|referer=https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", disny kids
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4|referer=https://cdns.jp-primehome.com:8000//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", disny XD kids
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8|referer=https://fl2.moveonjoy.com//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", duck tv kids
 https://jmp2.uk/sam-ESBC4700001GR.m3u8|referer=https://jmp2.uk//&key=BDStreamHub
@@ -458,13 +461,13 @@ https://www.tbn24.com/api/video/4031_0.m3u8|Referer=https://www.tbn24.com//&key=
 
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 1
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124143_english_hls_5771ta-di/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/123865_english_hls_24111adfreeta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 2
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124144_english_hls_5386ta-di/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/123122_english_hls_5695ta-no/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 3
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/123231_english_hls_5452ta-di/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+	https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124285_english_hls_5534ta-no/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 4
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124134_english_hls_5484ta-di/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
