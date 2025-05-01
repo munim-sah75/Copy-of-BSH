@@ -30,6 +30,10 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8|Referer=103.230.105.252:1935/
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3|Referer=103.163.247.39//&key=BDStreamHub
 
 
+#EXTINF:-6 group-title=" Movies " tvg-logo="https://i0.wp.com/inews.zoombangla.com/wp-content/uploads/2025/04/1-94.jpg", বরবাদ full HD
+https://vod-cdn.lp-playback.studio/raw/jxf4iblf6wlsyor6526t4tcmtmqa/catalyst-vod-com/hls/3938jeu7qv3yk09o/index.m3u8|Referer=https://vod-cdn.lp-playback.studio//&key=BDStreamHub
+
+
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8|referer=https://d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
