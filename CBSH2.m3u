@@ -1,17 +1,17 @@
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 1
-https://a1.kora-plus.pro/watch/wCTyNqLlCEIef7TH8a1EJA/1745859992/1745860246/1/daznit_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/AVPhsHjQ3Aw_Uyxg1mqbLw/1746115315/1746115569/1/bus_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 2
-https://a1.kora-plus.pro/watch/31gFKFXpYBklreBUGjWiag/1745860025/1745860279/1/cosm1_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/ZldKIv9L8JaS1IGAowShzQ/1746115352/1746115606/1/extra2_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 3
-https://a3.kora-plus.pro/watch/4GTsZz162XNqaBLwbveDXg/1745860054/1745860308/1/on1_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/66kHKXVzwYAEyHsfx5mZgA/1746115406/1746115660/1/extra1_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 4
 https://a3.kora-plus.pro/watch/4kJV1ILHCyBsj9BRA-c4Cw/1745860091/1745860345/1/on2_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 5
-https://a4.kora-plus.pro/watch/5s1XQLGvbZpkGqCkgVmV8g/1745860119/1745860373/1/tnt2_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/Cv70nuC4dGbGf4-FqnDObw/1746119522/1746119776/1/on1_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 6
 https://a4.kora-plus.pro/watch/HIjQ52kCWM4Pu27sEiLeFA/1745860148/1745860402/1/prime_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
@@ -442,10 +442,10 @@ http://172.19.178.145:18190/starmovies/index.fmp4.m3u8?token=0c3e2f3fe88241d29df
 http://kst.moonplex.net:8080/CH2/index.m3u8|referer=https://kst.moonplex.net:8080//&key=BDStreamHub
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://tvs2.aynaott.com/ssport1hd/index.m3u8|Referer=https://tvs2.aynaott.com//&key=BDStreamHub
+https://starsportseng.pages.dev/index.m3u8|Referer=https://starsportseng.pages.dev//&key=BDStreamHub
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 3
-http://172.19.178.49:18190/starsports1/index.fmp4.m3u8?token=9723035b8ee25be6023e4b7ddee60a5a37395264-ad81f22faf4ac44cb0f4bc3937b5e91d-1745686743-1745675943|Referer=https://172.19.178.49:18190//&key=BDStreamHub
+https://starsportseng.pages.dev/index.m3u8|Referer=https://starsportseng.pages.dev//&key=BDStreamHub
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 4
 https://pol5.dunyapurkaraja.com:999/hls/willowusa.m3u8?md5=dO6iEthdBduwa9WB1kTARw&expires=1745421407|Referer=https://pol5.dunyapurkaraja.com:999//&key=BDStreamHub
