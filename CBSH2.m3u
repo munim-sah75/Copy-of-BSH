@@ -227,6 +227,9 @@ https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/zee_t
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", discovery 
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8|referer=https://fl3.moveonjoy.com//&key=BDStreamHub
 
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", discovery HD
+http://179.1.146.21:8000/play/a0b9/index.m3u8|referer=https://179.1.146.21:8000//&key=BDStreamHub
+
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", ZEE ZEST HD 
 https://live.drmlive-02.workers.dev/zee/348.m3u8|referer=https://live.drmlive-02.workers.dev//&key=BDStreamHub
 
@@ -254,8 +257,8 @@ http://38.96.178.201/live/SangeetBangla/index.m3u8|referer=https://38.96.178.201
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Nick Jr
 http://38.96.178.201/live/NickJr/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Disney 
+http://179.1.146.21:8000/play/a0ga/index.m3u8|referer=https://179.1.146.21:8000//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", NICK
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8|referer=https://cool365.xyz:900//&key=BDStreamHub
@@ -431,9 +434,20 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8|referer=https://st
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", apart TV
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8|referer=https://2-fss-2.streamhoster.com//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", MOVIES HD 
-http://172.19.178.145:18190/starmovies/index.fmp4.m3u8?token=0c3e2f3fe88241d29df6a6a5c3977e00c06f5785-35e8c4fbaa568f1e21132bc40c8273ba-1745329650-1745318850|referer=https://172.19.178.145:18190//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", HBO HD
+http://181.78.109.48:8000/play/a017/index.m3u8|referer=https://181.78.109.48:8000//&key=BDStreamHub
 
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", HBO 
+http://181.78.109.48:8000/play/a01a/index.m3u8|referer=https://181.78.109.48:8000//&key=BDStreamHub
+
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",Nat Geo HD
+http://181.78.109.48:8000/play/a062/index.m3u8|referer=https://181.78.109.48:8000//&key=BDStreamHub
+
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Paramount HD
+http://201.182.248.254:8888/play/a0ac/index.m3u8|referer=https://201.182.248.254:8888//&key=BDStreamHub
+
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",National Geographic HD
+http://78.130.250.2:8023/play/a02c/index.m3u8|referer=https://78.130.250.2:8023//&key=BDStreamHub
 
 
 
