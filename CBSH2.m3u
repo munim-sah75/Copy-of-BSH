@@ -260,6 +260,9 @@ http://38.96.178.201/live/NickJr/index.m3u8|referer=https://38.96.178.201//&key=
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Disney 
 http://179.1.146.21:8000/play/a0ga/index.m3u8|referer=https://179.1.146.21:8000//&key=BDStreamHub
 
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Disney 2
+http://mega4k.top:8080/282556/282556/92416|referer=https://mega4k.top:8080//&key=BDStreamHub
+
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", NICK
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8|referer=https://cool365.xyz:900//&key=BDStreamHub
 
