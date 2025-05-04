@@ -386,8 +386,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8|referer=h
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  fun
 https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8|referer=https://linear-12.frequency.stream//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", A 2 
-http://31.148.48.15/A2/index.m3u8|referer=https://31.148.48.15//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", 123
+http://38.96.178.201/live/Disney/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", xumo
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8|referer=https://linear-458.frequency.stream//&key=BDStreamHub
@@ -395,8 +395,8 @@ https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8|refer
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Beano TV 
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8|referer=https://beanostudios-beanotv-1-gb.samsung.wurl.tv//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", spo
-https://30a-tv.com/feeds/720p/53.m3u8|referer=https://30a-tv.com//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", 456
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8|referer=https://jupiter.bdcabletv.com//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Abu Dhabi Sports 1 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8|referer=https://vo-live-media.cdb.cdn.orange.com//&key=BDStreamHub
