@@ -1,17 +1,17 @@
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 1
-https://a1.kora-plus.pro/watch/sbpSWbuFj1_yqkSd-Qc8Dg/1746288439/1746288693/1/daznit_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/9v4tlunBQAyjATDfKmysTQ/1746375515/1746375769/1/b4_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 2
-https://a1.kora-plus.pro/watch/NV--l9OOlTMb9bYZnKuUfw/1746288491/1746288745/1/b1tr_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
+https://storage.googleapis.com/qwesadrtvwwq/mux_video_ts/index-1.m3u8|Referer=storage.googleapis.com//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 3
-https://a1.kora-plus.pro/watch/66kHKXVzwYAEyHsfx5mZgA/1746115406/1746115660/1/extra1_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/aUz2ez9BCKwvDGJttMHNFg/1746375701/1746375955/1/calcio_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 4
-https://a3.kora-plus.pro/watch/4kJV1ILHCyBsj9BRA-c4Cw/1745860091/1745860345/1/on2_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/gjTGZvdKam9qrclCLdy2nw/1746375733/1746375987/1/b6_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 5
-https://a1.kora-plus.pro/watch/Cv70nuC4dGbGf4-FqnDObw/1746119522/1746119776/1/on1_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
+https://a1.kora-plus.pro/watch/Ii6Cb-u-VuPcsUdAbiHaAw/1746375761/1746376015/1/bbc2_1.m3u8|Referer=a1.kora-plus.pro//&key=BDStreamHub
 
 #EXTINF:-1 group-title="Pro League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Pro_League_logo2020.jpg", Match 6
 https://a4.kora-plus.pro/watch/HIjQ52kCWM4Pu27sEiLeFA/1745860148/1745860402/1/prime_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
@@ -60,7 +60,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8|Referer=d1e7r
 https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/gazi_tv_hd.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", T-Sports 
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8|Referer=live.tsports.com//&key=BDStreamHub
+http://38.96.178.201/live/TSports/index.m3u8|Referer=38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  71 TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8|Referer=d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
@@ -96,7 +96,7 @@ https://mytvbangla.com/0.m3u8|referer=https://mytvbangla.com//&key=BDStreamHub
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8|Referer=https://boishakhi.sonarbanglatv.com//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Bangla TV
-https://newbdix-xfireflix.vercel.app/api/newrdx/245910.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
+http://38.96.178.201/live/BanglaTV/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
  
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", channel 9
 https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
@@ -108,7 +108,7 @@ https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m
 https://aynaxpranto.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Mohona TV HD
-https://newbdix-xfireflix.vercel.app/api/newrdx/245920.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
+https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", movie bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8|Referer=alvetv.com//&key=BDStreamHub
@@ -125,14 +125,14 @@ http://kst.moonplex.net:8080/CH4/index.m3u8|referer=https://kst.moonplex.net:808
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  zee Bangla 2
 https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8|referer=https://live.drmlive-02.workers.dev//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  zee Bangla 3
-https://news.bajimath.com/Candy_Live/vstream.php?id=a994bb5a55fc&e=.m3u8|referer=https://news.bajimath.com//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Gaan Bangla
+http://38.96.178.201/live/GaanBangla/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  enterra10 bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8|referer=https://live-bangla.akamaized.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", স্টার জলসা 
-http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8|referer=https://kst.moonplex.net:8080//&key=BDStreamHub
+http://38.96.178.201/live/STARJALSHA/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", স্টার জলসা HD
 http://38.96.178.201/live/STARJALSHA/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
@@ -156,7 +156,7 @@ https://newbdix-xfireflix.vercel.app/api/newrdx/245914.m3u8|referer=https://newb
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8|referer=https://d35j504z0x2vu2.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", CN NETWORK
-https://aynaxpranto.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
+https://v5.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8|referer=https://v5.thetvapp.to//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", set HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8|referer=https://tataplay.slivcdn.com//&key=BDStreamHub
@@ -191,8 +191,8 @@ https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8|referer=http
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Sony KAL HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8|referer=https://spt-sonykal-1-us.lg.wurl.tv//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", star gold
-https://www.tbn24.com/api/video/4029_0.m3u8|Referer=https://www.tbn24.com//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", star gold HD
+http://38.96.178.201/live/StarGold/index.m3u8|Referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", T-BANGLA 
 https://jolshabd.com/live/mbanglatv/playlist.m3u8|Referer=https://jolshabd.com//&key=BDStreamHub
@@ -216,7 +216,7 @@ https://wildearth-plex.amagi.tv/masterR720P.m3u8|Referer=https://wildearth-plex.
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8|Referer=https://ekusheyserver.com//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  zee cinema
-https://news.bajimath.com/Candy_Live/vstream.php?id=d581dd66e556&e=.m3u8|Referer=https://news.bajimath.com//&key=BDStreamHub
+http://170.254.18.107/ZEECINEMA/index.m3u8|Referer=https://170.254.18.107//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Rongeen tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8|Referer=https://server.thelegitpro.in//&key=BDStreamHub
@@ -236,8 +236,8 @@ https://live.drmlive-02.workers.dev/zee/348.m3u8|referer=https://live.drmlive-02
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", JALSHA MOVIES
 http://38.96.178.201/live/JalshaMovies/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", JALSHA MOVIES HD
-https://newbdix-xfireflix.vercel.app/api/newrdx/245900.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", JALSHA MOVIES H
+http://38.96.178.201/live/JalshaMovies/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", MUZZIK
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8|referer=https://muzzik-live.morescreens.com//&key=BDStreamHub
@@ -294,7 +294,7 @@ https://jmp2.uk/sam-GB25000016G.m3u8|referer=https://jmp2.uk//&key=BDStreamHub
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8|referer=https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", NICKELODEON kids
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8|referer=https://fl1.moveonjoy.com//&key=BDStreamHub
+https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8|referer=https://v15.thetvapp.to//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", baby frest kids
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8|referer=https://streams2.sofast.tv//&key=BDStreamHub
@@ -437,8 +437,8 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8|referer=https://st
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", apart TV
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8|referer=https://2-fss-2.streamhoster.com//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", HBO HD
-http://181.78.109.48:8000/play/a017/index.m3u8|referer=https://181.78.109.48:8000//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", MOVIE MAX 
+https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8|referer=https://v16.thetvapp.to//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", HBO 
 http://181.78.109.48:8000/play/a01a/index.m3u8|referer=https://181.78.109.48:8000//&key=BDStreamHub
@@ -450,7 +450,7 @@ http://181.78.109.48:8000/play/a062/index.m3u8|referer=https://181.78.109.48:800
 http://201.182.248.254:8888/play/a0ac/index.m3u8|referer=https://201.182.248.254:8888//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",National Geographic HD
-http://78.130.250.2:8023/play/a02c/index.m3u8|referer=https://78.130.250.2:8023//&key=BDStreamHub
+https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8|referer=https://v5.thetvapp.to//&key=BDStreamHub
 
 
 
@@ -487,22 +487,13 @@ https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124551_en
 
 
 #EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 
-http://172.19.178.49:18190/sonysportsten1/index.fmp4.m3u8?token=060530689748501e4811391dd22585f24e09a334-ad07341a26750f20127e223ca7af8d64-1745342809-1745332009|Referer=172.19.178.49:18190//&key=BDStreamHub
+http://38.96.178.201/live/PTVSports/index.m3u8|Referer=38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 2
-http://172.19.178.49:18190/ptvsports/index.fmp4.m3u8?token=80788906fbeaf5ce9c5ab514a6e6968d87128088-2e563cba6e7fc27c623e10714f91b06f-1745342839-1745332039|Referer=172.19.178.49:18190//&key=BDStreamHub
-
-#EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 3 adsfree
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/123026_english_hls_6353ta-di/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
-
-#EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 4
-http://172.19.178.49:18190/ptvsports/index.fmp4.m3u8?token=f97389198145e9bd48c4b385bc540d36318828d9-5f8026abb99872b5f2e46021962e3268-1745517386-1745506586|Referer=172.19.178.49:18190//&key=BDStreamHub
+http://38.96.178.201/live/ASports/index.m3u8|Referer=38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 5
-https://tvs2.aynaott.com/PtvSports/index.m3u8?token=030ec528e912afb9a2e5167a928?by=Xfireflix|Referer=tvs2.aynaott.com//&key=BDStreamHub
-
-#EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 6
-https://vod.mafiatv.live/watch.php#https://x4new.newkso.ru/x4/skymix/mono.m3u8|Referer=vod.mafiatv.live//&key=BDStreamHub
+https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746369009300~hmac=c96ae7569d36abd9a75a1d6f752790234b68853db8f1d32ff0cf08146af870d6|Referer=live-test.tsports.com//&key=BDStreamHub
 
 
 
