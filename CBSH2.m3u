@@ -75,7 +75,7 @@ https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703.m3u8|referer=https://d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  আনন্দ TV
-https://newbdix-xfireflix.vercel.app/api/newrdx/245929.m3u8|referer=https://newbdix-xfireflix.vercel.app//&key=BDStreamHub
+https://aynaxpranto.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  বিজয় TV
 http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3|referer=https://103.163.247.39//&key=BDStreamHub
@@ -459,30 +459,10 @@ http://78.130.250.2:8023/play/a02c/index.m3u8|referer=https://78.130.250.2:8023/
 http://kst.moonplex.net:8080/CH2/index.m3u8|referer=https://kst.moonplex.net:8080//&key=BDStreamHub
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://starsportseng.pages.dev/index.m3u8|Referer=https://starsportseng.pages.dev//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 3
-https://starsportseng.pages.dev/index.m3u8|Referer=https://starsportseng.pages.dev//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 4
-https://pol5.dunyapurkaraja.com:999/hls/willowusa.m3u8?md5=dO6iEthdBduwa9WB1kTARw&expires=1745421407|Referer=https://pol5.dunyapurkaraja.com:999//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 5
-http://172.19.178.29:18190/CLOUD-TV-02/index.fmp4.m3u8?token=23d2a649607d12f9dad5c089e7662a2354eecf67-ff0e5c8402ff31a6f846d9b2d210a032-1745686885-1745676085|Referer=https://crichd.onlinetvbd.com//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 6
-https://pol5.dunyapurkaraja.com:999/hls/willowextra.m3u8?md5=zfHz6LLGukH8QRWKv_HSXA&expires=1745507835|Referer=https://pol5.dunyapurkaraja.com:999//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 7
-https://cricstream4u.github.io/jwplyr?file=https://tvs2.aynaott.com/ssport1hd/index.m3u8?token=030ec528e912afb9a2e5167a98?by=Xfireflix//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 8
-https://www.tbn24.com/api/video/4031_0.m3u8|Referer=https://www.tbn24.com//&key=BDStreamHub
+https://tv.bdixtv24.com/toffee/live.php?id=9b4b3941986a&e=.m3u8|referer=https://tv.bdixtv24.com//&key=BDStreamHub
 
 
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 1
-https://www.bdixtv24.xyz/proxy.php?url=https://d2lf1ywh9o6e8j.cloudfront.net/out/v1/4e1fca2c313b421395edb784d9e28557/index_8.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 2
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124080_english_hls_37194adfreeta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
