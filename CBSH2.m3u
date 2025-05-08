@@ -20,14 +20,15 @@ https://a4.kora-plus.pro/watch/HIjQ52kCWM4Pu27sEiLeFA/1745860148/1745860402/1/pr
 https://a1.kora-plus.pro/watch/HxOhEHk_kWi34zmXcYBKmw/1745860171/1745860425/1/on1_1.m3u8|Referer=a3.kora-plus.pro//&key=BDStreamHub
 
 
-#EXTINF:-1 group-title="BANGLADESH VS ZIMBABWE " tvg-logo="https://www.wisden.com/static-assets/waf-images/ac/17/a2/16-9/612985_Bangladesh-Zimbabwe.png", Match 1
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8|Referer=d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg", ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8|Referer=190.92.10.66:4000//&key=BDStreamHub
 
-#EXTINF:-1 group-title="BANGLADESH VS ZIMBABWE " tvg-logo="https://www.wisden.com/static-assets/waf-images/ac/17/a2/16-9/612985_Bangladesh-Zimbabwe.png", Match 2
-http://103.230.105.252:1935/live/btv/manifest.m3u8|Referer=103.230.105.252:1935//&key=BDStreamHub
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg", ESPN DEPORTES 2
+http://45.68.35.218:4001/play/a015/index.m3u8|Referer=45.68.35.218:4001//&key=BDStreamHub
 
-#EXTINF:-1 group-title="BANGLADESH VS ZIMBABWE " tvg-logo="https://www.wisden.com/static-assets/waf-images/ac/17/a2/16-9/612985_Bangladesh-Zimbabwe.png", Match 3
-http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3|Referer=103.163.247.39//&key=BDStreamHub
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg", LA LIGA
+http://45.228.234.173:9999/play/a00a/index.m3u8|Referer=45.228.234.173:9999//&key=BDStreamHub
+
 
 
 #EXTINF:-6 group-title=" Movies " tvg-logo="https://i0.wp.com/inews.zoombangla.com/wp-content/uploads/2025/04/1-94.jpg", বরবাদ full HD
@@ -87,7 +88,7 @@ https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m
 http://38.96.178.201/live/NTV/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", SA TV
-https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
+http://38.96.178.201/live/SATV/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", MY TV
 https://mytvbangla.com/0.m3u8|referer=https://mytvbangla.com//&key=BDStreamHub
@@ -99,13 +100,13 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8|Referer=htt
 http://38.96.178.201/live/BanglaTV/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
  
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", channel 9
-https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
+http://38.96.178.201/live/Channel9/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", DESH TV
 https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  MACHRANGA TV
-https://aynaxpranto.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8|referer=https://mtv.sunplex.live//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Mohona TV HD
 https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8|referer=https://aynaxpranto.vercel.app//&key=BDStreamHub
@@ -140,11 +141,11 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8|referer=https://38.96.178.201//&
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  9XM SONG
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8|referer=https://d35j504z0x2vu2.cloudfront.net//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Colors Bangla HD
-http://watchindia.net:8880/live/72144/41454/2284.m3u8|referer=https://watchindia.net:8880//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8|referer=https://38.96.178.201//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Colors hindi
-https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbd/colors_hd.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  Colors 
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8|referer=https://catchup.yuppcdn.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", 9X JOLWA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8|referer=https://d35j504z0x2vu2.cloudfront.net//&key=BDStreamHub
@@ -443,14 +444,14 @@ https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8|referer=https://v
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", HBO 
 http://181.78.109.48:8000/play/a01a/index.m3u8|referer=https://181.78.109.48:8000//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",Nat Geo HD
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Nat Geo HD
 http://181.78.109.48:8000/play/a062/index.m3u8|referer=https://181.78.109.48:8000//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", Paramount HD
 http://201.182.248.254:8888/play/a0ac/index.m3u8|referer=https://201.182.248.254:8888//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",National Geographic HD
-https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8|referer=https://v5.thetvapp.to//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", STSR GOLD HD 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187265.m3u8|referer=https://cool365.xyz:900//&key=BDStreamHub
 
 
 
