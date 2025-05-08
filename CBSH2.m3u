@@ -224,8 +224,8 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8|Referer=
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", ZEE TV HD
 https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/zee_tv.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app//&key=BDStreamHub
 
-#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", discovery 
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8|referer=https://fl3.moveonjoy.com//&key=BDStreamHub
+#EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", discovery bangla
+http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8|referer=https://kst.moonplex.net:8080//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", discovery HD
 http://179.1.146.21:8000/play/a0b9/index.m3u8|referer=https://179.1.146.21:8000//&key=BDStreamHub
