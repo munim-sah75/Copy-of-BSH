@@ -27,7 +27,33 @@ http://190.92.10.66:4000/play/a003/index.m3u8|Referer=190.92.10.66:4000//&key=BD
 http://45.68.35.218:4001/play/a015/index.m3u8|Referer=45.68.35.218:4001//&key=BDStreamHub
 
 #EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg", LA LIGA
-http://45.228.234.173:9999/play/a00a/index.m3u8|Referer=45.228.234.173:9999//&key=BDStreamHub
+http://190.92.10.66:4000/play/a001/index.m3u8|Referer=190.92.10.66:4000//&key=BDStreamHub
+
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",  Bien sport 3 🇶🇦
+https://dffgtrdc.vffddd.online:443/bein3/tracks-v1a1/mono.ts.m3u8|Referer=dffgtrdc.vffddd.online//&key=BDStreamHub
+
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",  Bien sport 1 🇶🇦
+https://gg.gggssjmjh756hgffreewguiijnbvcfg7.store:8880/bein1/index.m3u8|Referer=gg.gggssjmjh756hgffreewguiijnbvcfg7.store:8880//&key=BDStreamHub
+
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",   TV1 🇪🇸
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8|Referer=rtvelivestream.akamaized.net//&key=BDStreamHub
+
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",   PERSIANA SPORT 🇮🇷
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8|Referer=ayassport.776740.ir.cdn.ir//&key=BDStreamHub
+
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",    SPORTYTV 🇨🇿
+https://dash2.antik.sk/live/sporty_tv/index.m3u8|Referer=dash2.antik.sk//&key=BDStreamHub
+
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",     SPORT RU 🇷🇺
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8|Referer=streaming.astrakhan.ru//&key=BDStreamHub
+
+#EXTINF:-1 group-title=" SPORTS CHANNEL " tvg-logo="https://img.freepik.com/premium-vector/football-game-sport-tv-channel-logo-design_106330-335.jpg",     Xsport-HD
+http://iptv.prosto.tv:7000/ch109/video.m3u8|Referer=iptv.prosto.tv:7000//&key=BDStreamHub
+
+
+
+
+
 
 
 
@@ -465,22 +491,22 @@ https://tv.bdixtv24.com/toffee/live.php?id=9b4b3941986a&e=.m3u8|referer=https://
 
 
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 2
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124483_english_hls_70219ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 1
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124489_english_hls_67799ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 3
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 2
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124753_english_hls_80431ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 4
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 3
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124480_english_hls_54916ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 5
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 4
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124554_english_hls_78122ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 6
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 5
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124553_english_hls_93263ta-di_h264/720p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 7
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 6
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124551_english_hls_15855ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 
