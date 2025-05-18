@@ -486,7 +486,20 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/187265.m3u8|referer=https://cool
 http://kst.moonplex.net:8080/CH2/index.m3u8|referer=https://kst.moonplex.net:8080//&key=BDStreamHub
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://tv.bdixtv24.com/toffee/live.php?id=9b4b3941986a&e=.m3u8|referer=https://tv.bdixtv24.com//&key=BDStreamHub
+https://m1.merichunidya.com:999/hls/star1in.m3u8?md5=WPutxAHY5-9fHkM_D0lIjQ&expires=1747588515|referer=https://m1.merichunidya.com:999//&key=BDStreamHub
+
+#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
+https://off1.gogohaalmal.com:1686/hls/starhindi.m3u8?md5=TxuvIqGR4VY878a9G5olsw&expires=1747588515|referer=https://off1.gogohaalmal.com:1686//&key=BDStreamHub
+
+#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
+https://m3.merichunidya.com:999/hls/willowusa.m3u8?md5=DRE36syJ7K16gbkf2U9xog&expires=1747588515|referer=https://m3.merichunidya.com:999//&key=BDStreamHub
+
+#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
+https://off1.gogohaalmal.com:1686/hls/skyscric.m3u8?md5=C7gON_9msMSbmo1lHrdatw&expires=1747588515|referer=https://off1.gogohaalmal.com:1686//&key=BDStreamHub
+
+#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
+https://m3.merichunidya.com:999/hls/fox501.m3u8?md5=BNotP-l_p1fye5qlvy_npw&expires=1747588518|referer=https://m3.merichunidya.com:999//&key=BDStreamHub
+
 
 
 
@@ -519,7 +532,7 @@ http://38.96.178.201/live/PTVSports/index.m3u8|Referer=38.96.178.201//&key=BDStr
 http://38.96.178.201/live/ASports/index.m3u8|Referer=38.96.178.201//&key=BDStreamHub
 
 #EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 5
-https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746369009300~hmac=c96ae7569d36abd9a75a1d6f752790234b68853db8f1d32ff0cf08146af870d6|Referer=live-test.tsports.com//&key=BDStreamHub
+http://tv.bdiptv.store/live/restream/restreamkak/15325.m3u8|Referer=tv.bdiptv.store//&key=BDStreamHub
 
 
 
