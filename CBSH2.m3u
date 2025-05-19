@@ -483,7 +483,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/187265.m3u8|referer=https://cool
 
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 1
-http://kst.moonplex.net:8080/CH2/index.m3u8|referer=https://kst.moonplex.net:8080//&key=BDStreamHub
+https://tv.onlinetvbd.com/fancode/global/primary/125494_english_hls_36192ta-di_h264/index.m3u8|referer=https://tv.onlinetvbd.com//&key=BDStreamHub
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
 https://m1.merichunidya.com:999/hls/star1in.m3u8?md5=WPutxAHY5-9fHkM_D0lIjQ&expires=1747588515|referer=https://m1.merichunidya.com:999//&key=BDStreamHub
@@ -504,13 +504,13 @@ https://m3.merichunidya.com:999/hls/fox501.m3u8?md5=BNotP-l_p1fye5qlvy_npw&expir
 
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 1
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/125493_english_hls_83824ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/125494_english_hls_36192ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 2
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124500_english_hls_14307ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/125710_english_hls_88956ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 3
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124930_english_hls_33106ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124501_english_hls_70161ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 4
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/125349_english_hls_70424ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
