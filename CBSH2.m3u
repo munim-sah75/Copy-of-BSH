@@ -84,7 +84,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8|Referer=d1e7r
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8|Referer=d1e7rcqq4o2ma.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg",  GTV
-https://ayna-three.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8|referer=https://ayna-three.vercel.app//&key=BDStreamHub
+https://aynapubluc.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8|referer=https://aynapubluc.vercel.app//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", T-Sports 
 http://38.96.178.201/live/TSports/index.m3u8|Referer=38.96.178.201//&key=BDStreamHub
@@ -183,7 +183,7 @@ https://ayna-three.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8|referer=https://d35j504z0x2vu2.cloudfront.net//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", CN NETWORK
-https://ayna-three.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8|referer=https://ayna-three.vercel.app//&key=BDStreamHub
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8|referer=https://vodzong.mjunoon.tv:8087//&key=BDStreamHub
 
 #EXTINF:-2 group-title="All TV Channel " tvg-logo="https://i1.sndcdn.com/avatars-yI9eoHEm9vKfMvtQ-9myU0A-t1080x1080.jpg", set HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8|referer=https://tataplay.slivcdn.com//&key=BDStreamHub
@@ -483,56 +483,47 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/187265.m3u8|referer=https://cool
 
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 1
-https://tv.onlinetvbd.com/fancode/global/primary/125494_english_hls_36192ta-di_h264/index.m3u8|referer=https://tv.onlinetvbd.com//&key=BDStreamHub
+https://toffee.yflix.top/live.php?id=9b4b3941986a&e=.m3u8|referer=https://toffee.yflix.top//&key=BDStreamHub
 
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://m1.merichunidya.com:999/hls/star1in.m3u8?md5=WPutxAHY5-9fHkM_D0lIjQ&expires=1747588515|referer=https://m1.merichunidya.com:999//&key=BDStreamHub
+http://xott.live:80/live/874246786/743567899/167573.m3u8|referer=https://xott.live:80//&key=BDStreamHub
 
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://off1.gogohaalmal.com:1686/hls/starhindi.m3u8?md5=TxuvIqGR4VY878a9G5olsw&expires=1747588515|referer=https://off1.gogohaalmal.com:1686//&key=BDStreamHub
+#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 3
+http://xtv.ooo:8080/live/sami12/827272/167581.m3u8|referer=https://xtv.ooo:8080//&key=BDStreamHub
 
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://m3.merichunidya.com:999/hls/willowusa.m3u8?md5=DRE36syJ7K16gbkf2U9xog&expires=1747588515|referer=https://m3.merichunidya.com:999//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://off1.gogohaalmal.com:1686/hls/skyscric.m3u8?md5=C7gON_9msMSbmo1lHrdatw&expires=1747588515|referer=https://off1.gogohaalmal.com:1686//&key=BDStreamHub
-
-#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 2
-https://m3.merichunidya.com:999/hls/fox501.m3u8?md5=BNotP-l_p1fye5qlvy_npw&expires=1747588518|referer=https://m3.merichunidya.com:999//&key=BDStreamHub
 
 
 
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 1
-https://www.bdixtv24.xyz/proxy.php?url=https://dsjz1gms3zce5.cloudfront.net/out/v1/f413830d21d044918adac53dafc1fe3b/index_3.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126844_english_hls_25600ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 2
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126274_english_hls_69666ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127008_english_hls_67071ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 3
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124882_english_hls_49456ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124889_english_hls_48764ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 4
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/125735_english_hls_14631ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126824_english_hls_46637ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 5
-https://www.bdixtv24.xyz/proxy.php?url=https://d3fn1go544ixyx.cloudfront.net/out/v1/1bfdcb77d7da404ea97692d56541e564/index_6.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126233_english_hls_8275ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 6
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127065_english_hls_63443ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126234_english_hls_9334ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 6
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126347_english_hls_86634ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 
 
 
 
-#EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 
-http://38.96.178.201/live/PTVSports/index.m3u8|Referer=38.96.178.201//&key=BDStreamHub
 
-#EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 2
-http://38.96.178.201/live/ASports/index.m3u8|Referer=38.96.178.201//&key=BDStreamHub
+#EXTINF:-5 group-title=" ENG-W vs WI-W 3rd T20I  " tvg-logo="https://femalecricket.com/wp-content/uploads/2025/05/england-women-vs-west-indies-women-3rd-t20i-fantasy-xi-picks.jpg", LIVE NOW 
+https://m1.merichunidya.com:999/hls/skyscric.m3u8?md5=XSUtmJNl2q4iLu-fJQiYTg&expires=1748274347|Referer=m1.merichunidya.com:999//&key=BDStreamHub
 
-#EXTINF:-5 group-title=" PSL  " tvg-logo="https://www.incpak.com/wp-content/uploads/2022/08/PSLScheudle-1024x576.jpg", LIVE NOW 5
-http://tv.bdiptv.store/live/restream/restreamkak/15325.m3u8|Referer=tv.bdiptv.store//&key=BDStreamHub
 
 
 
