@@ -510,8 +510,8 @@ https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127186_en
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 5
 https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126879_english_hls_26989ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
-#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 6
-https://asiacup.akamaized.net/hls/live/2094870/afckorea/hdntl=exp=1748538210~acl=%2f*~data=hdntl~hmac=aab3200e9719dff8fd17a06470a9f8caf827c0902b2a967789380dfcac8f9ef8/level_0.m3u8|Referer=asiacup.akamaized.net//&key=BDStreamHub
+#EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 6.
+https://bcovlive-a.akamaihd.net/b238876e5f004ec29d4e07066a044996/eu-west-1/4854911276001/playlist.m3u8|Referer=bcovlive-a.akamaihd.net//&key=BDStreamHub
 
 
 
