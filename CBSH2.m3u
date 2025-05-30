@@ -52,8 +52,22 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8|Referer=iptv.prosto.tv:7000//&key=BD
 
 
 
+#EXTINF:-6 group-title=" Pakistan vs Bangladesh Live T20I " tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17478978371020x576.jpg", live HD
+https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_alibaba-02.m3u8?aliyunols=on|Referer=https://alibabacdn2.tamashaweb.com//&key=BDStreamHub
+
+#EXTINF:-6 group-title=" Pakistan vs Bangladesh Live T20I " tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17478978371020x576.jpg", ENG VS WI 
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8|Referer=https://alibabacdn2.tamashaweb.com//&key=BDStreamHub
+
+#EXTINF:-6 group-title=" Pakistan vs Bangladesh Live T20I " tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17478978371020x576.jpg", live 3
+https://stream2.aryzap.com/v1/018a8885b8951eb401a603639363/018a88860ada09831f17035d95dd/ARYBK2H264_720p.m3u8?isSubM3u8=1|Referer=https://stream2.aryzap.com//&key=BDStreamHub
+
+#EXTINF:-6 group-title=" Pakistan vs Bangladesh Live T20I " tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedWebthumb/17478978371020x576.jpg", live 4
+http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8|Referer=https://38.96.178.201//&key=BDStreamHub
 
 
+
+#EXTINF:-6 group-title=" England Lions vs India A " tvg-logo="https://i.ibb.co/fVKS08QG/IND.jpg", liVE 
+https://bcovlive-a.akamaihd.net/b238876e5f004ec29d4e07066a044996/eu-west-1/4854911276001/playlist.m3u8|Referer=https://bcovlive-a.akamaihd.net//&key=BDStreamHub
 
 
 
@@ -491,24 +505,27 @@ http://xott.live:80/live/874246786/743567899/167573.m3u8|referer=https://xott.li
 #EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 3
 http://xtv.ooo:8080/live/sami12/827272/167581.m3u8|referer=https://xtv.ooo:8080//&key=BDStreamHub
 
+#EXTINF:-2 group-title="TATA IPL 2025" tvg-logo="https://www.tribuneindia.com/ipl_assets/banner.png", Match 4
+https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_720p.m3u8?aliyunols=on|referer=https://alibabacdn2.tamashaweb.com//&key=BDStreamHub
+
 
 
 
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 1
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124898_english_hls_11977ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127447_english_hls_42944ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 2
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127444_english_hls_10656ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127530_english_hls_17618adfreeta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 3
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/124633_english_hls_68862ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/125404_english_hls_84744ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 4
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127186_english_hls_1688ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127213_english_hls_20910ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 5
-https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/126879_english_hls_26989ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
+https://www.bdixtv24.xyz/proxy.php?url=https://dai.fancode.com/primary/127085_english_hls_47995ta-di_h264/1080p.m3u8|Referer=www.bdixtv24.xyz//&key=BDStreamHub
 
 #EXTINF:-4 group-title="FANCODE SPORTS " tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png",  LIVE 6.
 https://bcovlive-a.akamaihd.net/b238876e5f004ec29d4e07066a044996/eu-west-1/4854911276001/playlist.m3u8|Referer=bcovlive-a.akamaihd.net//&key=BDStreamHub
